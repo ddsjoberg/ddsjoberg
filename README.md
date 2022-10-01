@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/bz36NpUVUF19XQ2cUY/giphy.gif" width="150">
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=solarized-light)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=graywhite)
 
 <!--
 **ddsjoberg/ddsjoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
