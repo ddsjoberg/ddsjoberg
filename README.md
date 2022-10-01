@@ -1,11 +1,11 @@
-<h2> Hi, I'm Daniel Sjoberg! <img src="https://media.giphy.com/media/KjuQizGwJCsgoYdziS/giphy.gif" width="40"></h2>
+<h2> Hi, I'm Daniel Sjoberg! <img src="https://media.giphy.com/media/KjuQizGwJCsgoYdziS/giphy.gif" width="60"></h2>
 
 
 [![Twitter: statistishdan](https://img.shields.io/twitter/follow/statistishdan?style=social)](https://twitter.com/statistishdan)
-[![Linkedin: ddsjoberg](https://img.shields.io/badge/-ddsjoberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddsjoberg/)](https://www.linkedin.com/in/ddsjoberg/)
 [![GitHub followers](https://img.shields.io/github/followers/ddsjoberg?style=social)](https://github.com/ddsjoberg)
+[![Linkedin: ddsjoberg](https://img.shields.io/badge/-ddsjoberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddsjoberg/)](https://www.linkedin.com/in/ddsjoberg/)
 
-<em>Connect with me!</em><img src="https://media.giphy.com/media/lrVuooYgsbMmCt7IPG/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/bz36NpUVUF19XQ2cUY/giphy.gif" width="150">
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=solarized-light)
 
