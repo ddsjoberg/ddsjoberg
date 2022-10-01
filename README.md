@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Twitter: statistishdan](https://img.shields.io/twitter/follow/statistishdan?style=social)](https://twitter.com/statistishdan)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddsjoberg/)](https://www.linkedin.com/in/ddsjoberg/)
+[![GitHub Thaiane](https://img.shields.io/github/ddjsoberg/thaiane?label=follow&style=social)](https://github.com/ddjsoberg)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Connect with me!</em>
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=solarized-light)
 
