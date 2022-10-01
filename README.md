@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=onedark)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=solarized-light)
 
 <!--
 **ddsjoberg/ddsjoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
