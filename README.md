@@ -6,4 +6,5 @@
 
 Daniel is a Lead Data Science Manager at Memorial Sloan Cancer Center and an open-source R package developer.
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ddsjoberg&count_private=true&show_icons=true&theme=graywhite)
+![Daniel's github stats](https://github-stats-extended.vercel.app/api?username=ddsjoberg)
+
